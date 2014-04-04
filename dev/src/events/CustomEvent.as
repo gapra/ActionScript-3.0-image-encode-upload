@@ -1,5 +1,5 @@
 /* AS3
-	Copyright 2008 findsubstance;
+	Modified 2014 Galih Pranowo;
 */
 package src.events 
 {
@@ -10,8 +10,7 @@ package src.events
 	 *	@langversion ActionScript 3.0;
 	 *	@playerversion Flash 9.0;
 	 *
-	 *	@author shaun.tinney@findsubstance.com;
-	 *	@since  02.13.2008;
+	 *	@author gapraart@gmail.com;
 	 */
 	
 	import flash.display.*;

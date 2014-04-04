@@ -1,6 +1,4 @@
-/* AS3
-	Copyright 2008 findsubstance;
-*/
+
 package src 
 {
 	
@@ -9,11 +7,6 @@ package src
 	 *
 	 *	@langversion ActionScript 3.0;
 	 *	@playerversion Flash 9.0;
-	 *
-	 *	@author shaun.tinney@findsubstance.com;
-	 *	@since  03.12.2008;
-	 *	
-	 *	@license http://creativecommons.org/licenses/by-nc-sa/3.0/
 	 */
 	
 	import flash.display.*;
